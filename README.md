@@ -1,6 +1,26 @@
+# Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/bogdanblare/Calculator.git
+```
+
+Go to the project directory
+
+```bash
+  cd Calculator
+```
+
+Start
+
+```bash
+  npm start
+```
+
 ## Calculator
 
-The project [Calculator](https://bogdanblare.github.io/calculator/) is a web-based calculator application. It provides users with a convenient and user-friendly interface to perform mathematical calculations online.
+The project [Calculator](https://bogdanblare.github.io/Calculator/) is a web-based calculator application. It provides users with a convenient and user-friendly interface to perform mathematical calculations online.
 
 The calculator interface is designed to resemble a traditional handheld calculator, with a set of buttons representing numbers, arithmetic operators, and other functions. Users can input their calculations by clicking on the buttons or by using their keyboard.
 
